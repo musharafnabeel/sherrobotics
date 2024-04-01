@@ -1,0 +1,62 @@
+
+/* Primary Font */
+
+@font-face {
+  font-family: "Montserrat1";
+  src: local("Montserrat1"),
+    url("../font/Montserrat-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: local("Poppins"),
+    url("../font/Poppins-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: local("Inter"),
+    url("../font/Inter-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Sofia";
+  src: local("Sofia"),
+    url("../font/Sofia-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Montserrat";
+  src: local("Montserrat"),
+    url("../font/Montserrat.ttf") format("truetype");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "BookAntiquaBold";
+  src: local("BookAntiquaBold"),
+    url("../font/Book_Antiqua_Bold.ttf") format("truetype");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "KyivTypeSans";
+  src: local("KyivTypeSans"),
+    url("../font/KyivType_Sans.ttf") format("truetype");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Orbitron";
+  src: local("Orbitron"),
+    url("../font/Orbitron-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-display: swap;
+}
